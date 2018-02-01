@@ -208,7 +208,7 @@ We can see that the high cost bucket contains one large underperformer in SRCL, 
 
 ### Extensions
 
-In a follow up post, we'll turn those 14 low labor cost stocks (and can include more if anyone has suggestions for others that fit the low cost criteria) and 4 high labor cost stocks into their own indices. That is very similar to turning them into a portfolio which we covered in a [previous post](http://www.reproduciblefinance.com/2017/10/12/introduction-to-portfolio-returns/). Then we can revisit the indices throughout the year, along with wage data, and examine the relationship. 
+In a follow up post, we'll turn those 14 low labor cost stocks (and can include more if anyone has suggestions for others that fit the low cost criteria) and 4 high labor cost stocks into their own indices. That is very similar to turning them into a portfolio which we covered in a [previous post](http://www.reproduciblefinance.com/code/introduction-to-portfolio-returns/). Then we can revisit the indices throughout the year, along with wage data, and examine the relationship. 
 
 Another extension could explore a way to search fundamental data for those companies with low and high labor costs, which would allow us to dynamically reconstruct and rebalance our buckets over time. So little time so much to do! 
 
